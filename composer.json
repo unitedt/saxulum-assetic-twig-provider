@@ -1,5 +1,5 @@
 {
-    "name": "united/saxulum-assetic-twig-provider",
+    "name": "unitedt/saxulum-assetic-twig-provider",
     "description": "Saxulum Assetic Twig Provider",
     "keywords": ["saxulum", "pimple", "cilex", "silex", "assetic", "twig"],
     "license": "MIT",
