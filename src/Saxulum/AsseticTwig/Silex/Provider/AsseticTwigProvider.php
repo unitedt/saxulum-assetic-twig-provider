@@ -4,7 +4,7 @@ namespace Saxulum\AsseticTwig\Silex\Provider;
 
 use Saxulum\AsseticTwig\Provider\AsseticTwigProvider as BaseAsseticTwigProvider;
 use Silex\Application;
-use Silex\ServiceProviderInterface;
+use Pimple\ServiceProviderInterface;
 
 class AsseticTwigProvider implements ServiceProviderInterface
 {
