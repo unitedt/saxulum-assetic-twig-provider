@@ -35,7 +35,7 @@
         "oyejorge/less.php": "~1.7",
         "psr/log": "~1.0",
         "silex/silex": "~1.1|~2",
-        "saxulum/saxulum-console": "~2.0"
+        "unitedt/saxulum-console": "dev-master@dev"
     },
     "repositories": [
         {
