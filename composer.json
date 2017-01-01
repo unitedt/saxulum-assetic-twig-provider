@@ -1,5 +1,5 @@
 {
-    "name": "saxulum/saxulum-assetic-twig-provider",
+    "name": "united/saxulum-assetic-twig-provider",
     "description": "Saxulum Assetic Twig Provider",
     "keywords": ["saxulum", "pimple", "cilex", "silex", "assetic", "twig"],
     "license": "MIT",
@@ -12,10 +12,10 @@
     "require": {
         "php": ">=5.3.3,<8.0",
         "kriswallsmith/assetic": "~1.2",
-        "pimple/pimple": "~1.0",
+        "pimple/pimple": ">=1.0",
         "symfony/finder": "~2.3|~3.0",
         "symfony/http-foundation": "~2.3|~3.0",
-        "twig/twig": "~1.2"
+        "twig/twig": ">=1.2"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*",
@@ -25,7 +25,7 @@
         "mrclay/minify": "~2.2.0",
         "oyejorge/less.php": "~1.7",
         "psr/log": "~1.0",
-        "silex/silex": "~1.1"
+        "silex/silex": "~1.1|~2"
     },
     "suggest": {
         "cssmin/cssmin": "~3.0.1",
@@ -34,7 +34,7 @@
         "mrclay/minify": "~2.2.0",
         "oyejorge/less.php": "~1.7",
         "psr/log": "~1.0",
-        "silex/silex": "~1.1",
+        "silex/silex": "~1.1|~2",
         "saxulum/saxulum-console": "~2.0"
     },
     "repositories": [
